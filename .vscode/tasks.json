@@ -9,7 +9,7 @@
 				"-g",
 				"${file}",
 				"-o",
-				"${fileDirname}/executables/${fileBasenameNoExtension}"
+				"${workspaceFolder}/executables/${fileBasenameNoExtension}"
 			],
 			"options": {
 				"cwd": "${workspaceFolder}"
